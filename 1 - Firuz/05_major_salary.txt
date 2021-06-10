@@ -1,0 +1,74 @@
+Accounting;50000;72000
+Advertising and public relations;40000;72000
+Aerospace engineering;64000;100000
+Agriculture;40000;60000
+Animal and plant sciences;35000;60000
+Anthropology;33000;57000
+Architecture;45000;75000
+Art history;38900;60000
+Biochemistry;40000;75000
+Biology;35000;65000
+Business analytics;57000;88000
+Business management;40000;65000
+Chemical engineering;68000;103000
+Chemistry;41000;74000
+Civil engineering;60000;90000
+Commercial art and graphic design;40000;60000
+Communication studies;40000;70000
+Computer engineering;65000;106000
+Computer science;62000;95000
+Construction services;56000;85000
+Criminal justice;37000;60000
+Early childhood education;32100;41000
+Earth sciences;40000;65000
+Economics;55000;90000
+Electrical engineering;65000;100000
+Elementary education;35000;43000
+Engineering technologies;50000;80000
+English language;35000;60000
+Environmental studies;36000;65000
+Ethnic studies;38000;57000
+Family and consumer sciences;32000;50000
+Finance;52000;85000
+Fine arts;33500;55000
+Foreign language;35000;60000
+General business;45000;70000
+General education;36000;45000
+General engineering;60000;88000
+General social sciences;36000;60000
+Geography;42000;70000
+Health services;36000;55000
+History;36000;66000
+Industrial engineering;64000;87000
+Information systems and management;50000;75000
+Interdisciplinary studies;38000;61000
+International relations;45000;75000
+Journalism;38000;65000
+Leisure and hospitality;34200;58000
+Liberal arts;33400;60000
+Marketing;42000;74000
+Mass media;35000;60000
+Mathematics;50000;80000
+Mechanical engineering;63000;98000
+Medical technicians;42600;64000
+Miscellaneous biological sciences;35000;60000
+Miscellaneous education;37000;48000
+Miscellaneous engineering;60000;85000
+Miscellaneous physical sciences;46000;75000
+Miscellaneous technologies;37000;72000
+Nursing;50000;70000
+Nutrition sciences;35000;54000
+Performing arts;30000;58000
+Pharmacy;40000;115000
+Philosophy;36000;62000
+Physics;48500;94000
+Political science;42000;75000
+Psychology;34000;56000
+Public policy and law;40000;60000
+Secondary education;38000;50000
+Social services;31300;44200
+Sociology;34600;56000
+Special education;37000;45000
+Theology and religion;32000;49000
+Treatment therapy;36000;67000
+Overall;40000;68000
